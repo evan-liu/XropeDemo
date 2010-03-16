@@ -1,0 +1,3 @@
+h2. "Demo":http://eidiot.github.com/xrope/index.html#DemoLink for "xrope":http://eidiot.github.com/xrope/
+
+Built by "Minimal Comps":http://www.minimalcomps.com/, "Robotlegs":http://robotlegs.org/, and "as3-Signals":http://github.com/robertpenner/as3-signals
